@@ -6,7 +6,6 @@ State of New York Motor Vehicle Crash Analysis
 
 Team Members
 Najmeh
-Crystal 
 David
 
 Description of Scope of Research
